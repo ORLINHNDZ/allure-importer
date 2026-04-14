@@ -1,0 +1,16 @@
+allure:
+  token_env: ALLURE_TOKEN
+  url: ALLURE_URL
+columns:
+  automated: automated
+  description: description
+  expected_result: expected_result
+  lead: Lead
+  name: Name
+  owner: Owner
+  precondition: Precondition
+  scenario: scenario
+  tag: tag
+custom_fields: []
+project:
+  id: 34
